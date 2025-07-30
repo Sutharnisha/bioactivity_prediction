@@ -1,0 +1,8 @@
+
+Baseline_Model,1.3957, -0.0000
+Linear_Regression,1.0635, 0.4194
+Ridge_Regression,1.0591, 0.4241
+Random_Forest,0.7852, 0.6835
+SVR,0.7647, 0.6998
+Model_NN,0.9108, 0.5741
+Model_NN_Dropout,0.8506, 0.6286
